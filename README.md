@@ -19,18 +19,6 @@ Before you begin, ensure you have installed:
 
 ## Project Structure
 
-```
-url-shortener/
-├── client/             # React frontend
-│   ├── src/
-│   ├── package.json
-│   └── ...
-├── server/             # Express backend
-│   ├── server.js
-│   ├── package.json
-│   └── ...
-└── README.md
-```
 
 ## Installation
 
